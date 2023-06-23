@@ -1,12 +1,19 @@
 .contact{
-    padding: 4%;
-    height: 400px;
+    padding: 40%;
+    /* height: 100vh; */
+    border: 2px solid black;
+    margin: 1% 25%;
+    padding: 0px 0px;
+    width: 50%;
+    height: 50%;
 }
 .col-md-3{
     background: #ff9b00;
     padding: 4%;
     border-top-left-radius: 0.5rem;
     border-bottom-left-radius: 0.5rem;
+    border: 2px solid black;
+
 }
 .contact-info{
     margin-top:10%;
